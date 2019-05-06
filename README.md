@@ -2,7 +2,7 @@
 
 This repository contains black & white images adapted from the [African Storybook](https://www.africanstorybook.org) collection for use in the [Global Storybooks](https://globalstorybooks.net) project. These images are suitable for the creation of colouring books, colour-in exercises etc.
 
-The images here include both those that have been modified from colour originals (i.e., by de-colourization / converting to black & white), as well as unmodified black & white images. A repository containing only the modified images can be found [here](https://github.com/global-asp/asp-imagebank-new/), while the original, unmodified images can be found in the [asp-imagebank](https://github.com/global-asp/asp-imagebank) repository.
+The images here include both those that have been modified from colour originals (i.e., by de-colourization / converting to black & white), as well as unmodified black & white images. A repository containing only the modified images can be found [here](https://github.com/global-asp/asp-imagebank-new/), while the original, unmodified images can be found in the [asp-imagebank](https://github.com/global-asp/asp-imagebank) repository. The corresponding colour images are located in the [gsn-imagebank repository](https://github.com/global-asp/gsn-imagebank).
 
 All editing, de-colourization, and artistic modification has been done by **Ingrid Schechter**.
 
